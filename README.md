@@ -8,14 +8,10 @@ Try running some of the following tasks:
 npx hardhat node
 
 node scripts/sample-script.js
-npx hardhat compile
-
 npx hardhat test
-
 npx hardhat accounts
-npx hardhat compile
 npx hardhat clean
-
+npx hardhat compile
 
 npx hardhat help
 ```
